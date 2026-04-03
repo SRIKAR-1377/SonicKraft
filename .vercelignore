@@ -1,0 +1,10 @@
+.git
+.gitignore
+README.md
+render.yaml
+downloads/
+*.pyc
+__pycache__
+.env
+.env.local
+*.log
